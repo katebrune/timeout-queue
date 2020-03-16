@@ -13,7 +13,7 @@ pip install -i https://test.pypi.org/simple/ timeoutqueue
 ## Usage
 
 ```python
-from TimeoutQueue import TimeoutQueue
+from timeoutqueue import TimeoutQueue
 
 queue = TimeoutQueue(5) # initializes queue that maintains items for 5 seconds
 queue.append('a') # adds 'a' to the queue
