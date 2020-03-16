@@ -4,7 +4,7 @@ TimeoutQueue is a queue that maintains elements for a set amount of time
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install timeoutqueue.
 
 ```bash
 pip install -i https://test.pypi.org/simple/ timeoutqueue
