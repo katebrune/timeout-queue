@@ -1,5 +1,5 @@
 import unittest
-from TimeoutQueue import TimeoutQueue
+from timeoutqueue import TimeoutQueue
 import time
 
 

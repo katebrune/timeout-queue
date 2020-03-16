@@ -1,1 +1,4 @@
-/__pycache__
+/build
+/dist
+/timeoutqueue/__pycache__
+/timeoutqueue.egg-info
