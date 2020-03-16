@@ -2,12 +2,12 @@
 
 TimeoutQueue is a queue that maintains elements for a set amount of time
 
-## Installation (TODO)
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+pip install -i https://test.pypi.org/simple/ timeoutqueue
 ```
 
 ## Usage
